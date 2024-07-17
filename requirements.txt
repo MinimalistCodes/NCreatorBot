@@ -1,0 +1,15 @@
+streamlit
+python-dotenv
+google-generativeai
+langchain-google-genai
+langchain
+langchain_community
+streamlit-extras
+streamlit-multipage
+streamlit-folium
+extra_streamlit_components
+streamlit-elements
+streamlit-tailwind
+fpdf
+streamlit-navigation-bar
+fb_streamlit_auth
