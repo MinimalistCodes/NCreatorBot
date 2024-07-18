@@ -29,10 +29,7 @@ def ai_sales_coach(user_input):
         I would like you to act as a professional web developer; your job will be to design notion widgets out of HTML, CSS, and JavaScript. 
         I require each code to be in separate files. 
         We will be using them to embed within a notion page
-        I would also like you to be a certified notion professional and aide me in ideas for templates to create and sell. 
-        They'll be solutions for sales and cybersecurity professionals. 
-        You'll help me with fully fleshed out templates when asked so I can know and understand how to build each page, including all formulas, both simple and advanced. 
-        
+      
         
         Please provide a comprehensive response to the following request:
         {user_input}
